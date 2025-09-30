@@ -63,7 +63,7 @@ Developed with ❤️ during my internship at Codveda.
 
 YouTube: 🚀 Next Generation Tech
 LinkedIn: https://www.linkedin.com/in/evelyne-clementine-filloi-a66b6837b/
-GitHub: Your GitHub
+GitHub:(https://github.com/filloievelyneclementine-gif/Codveda_Task_Manager.git)
 📜 License
 This project is licensed under the MIT License – free to use and modify.
 
